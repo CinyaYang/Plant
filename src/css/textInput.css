@@ -1,0 +1,12 @@
+.textInput {
+  justify-content: space-around;
+  padding: 0 50px;
+}
+
+.name {
+  white-space: nowrap;
+  width: 200px;
+  margin: 0;
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,9 @@
+.searchContainer {
+  padding: 10px;
+}
+
+.searchContent {
+  width: calc(100% - 20px);
+  border-radius: 18px;
+  overflow: hidden;
+}

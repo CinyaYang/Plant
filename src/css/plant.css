@@ -1,0 +1,11 @@
+.plant {
+  margin: 2px;
+
+  width: 150px;
+  height: 150px;
+  border: 1px solid #c8cbcb;
+}
+
+.plant:hover {
+  opacity: 0.5;
+}

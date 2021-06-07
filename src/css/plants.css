@@ -1,0 +1,8 @@
+.plantContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.plantContainer > * {
+  padding: 10px;
+}

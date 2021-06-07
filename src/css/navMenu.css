@@ -1,0 +1,17 @@
+.menu {
+  position: absolute;
+  flex-direction: column;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+  padding: 10px;
+  z-index: 1;
+  background-color: #a4c8e8;
+}
+
+.show {
+  display: flex;
+}
+
+.hide {
+  display: none;
+}

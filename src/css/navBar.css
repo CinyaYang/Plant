@@ -1,0 +1,24 @@
+.navBar {
+  display: flex;
+  background-color: rgba(82, 156, 236, 0.69);
+  height: 39px;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+}
+
+.tabsContainer {
+  display: flex;
+  justify-content: space-around;
+  min-width: 50%;
+}
+
+.logo {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+}
+
+a {
+  color: aliceblue;
+}
